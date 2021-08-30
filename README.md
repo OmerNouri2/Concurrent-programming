@@ -1,6 +1,7 @@
 # Project name:  Concurrent-programming
 
-# Description: Building a Microservice framework and Implementing a system on top of this framework.
+# Description: 
+Building a Microservice framework and Implementing a system on top of this framework.
 
 # The Framework: 
   The framework consists of two main parts: first is a Message-Bus, and second - Microservices. 
